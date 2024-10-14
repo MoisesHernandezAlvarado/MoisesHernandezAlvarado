@@ -30,7 +30,7 @@ Actualmente, estoy enfocado en proyectos que me involucrant en los ambitos de de
 ---
 ![Mis lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesHernandezAlvarado&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MoisesHernandezAlvarado&theme=radical)
-[![Moises's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO)](https://wakatime.com/@MoisesHernandezAlvarado)
+[![Moises's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoisesHernandezAlvarado)](https://wakatime.com/@MoisesHernandezAlvarado)
 
 
 
