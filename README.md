@@ -16,6 +16,11 @@ Actualmente, estoy enfocado en proyectos que me involucrant en los ambitos de de
 - **Backend:** Django, Flask, FastApi, JsonServer
 - **Bases de Datos:** MySQL, PostgreSQL, DynamoDB, MongoDB
 - **Herramientas:** Git, Docker, Postman
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Conéctate conmigo
 - 💬 No dudes en contactarme si tienes alguna pregunta o simplemente quieres platicar sobre tecnología, videojuegos, o el último partido de fútbol.
