@@ -22,5 +22,6 @@ Actualmente, estoy enfocado en proyectos que me involucrant en los ambitos de de
 - ✉️ **Email:** Moiseshernandezalvarado@hotmail.com
 
 ---
+![Mis lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 ¡Gracias por visitar mi perfil!
