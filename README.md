@@ -29,7 +29,9 @@ Actualmente, estoy enfocado en proyectos que me involucrant en los ambitos de de
 
 ---
 ![Mis lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesHernandezAlvarado&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MoisesHernandezAlvarado&theme=radical)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=MoisesHernandezAlvarado.MoisesHernandezAlvarado)
+
 
 
 ¡Gracias por visitar mi perfil!
