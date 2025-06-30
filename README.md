@@ -6,7 +6,6 @@
 - 🎮 Disfruto de los **videojuegos**, **fútbol** y los **autos**
 - 💼 Me gusta el trabajo y siempre estoy listo para aprender y enfrentar nuevos retos
 - 🏀 Me encanta ver deportes en mi tiempo libre
-- 🎾 Mi nuevo hobbie favorito es el Padel
 
 ### ¿Qué hago?
 Actualmente, estoy enfocado en proyectos que me involucran en los ambitos de desarrollo web y backend, donde puedo aplicar y mejorar mis habilidades en programación y tecnología. Siempre estoy buscando formas de mejorar mis habilidades y aprender nuevas tecnologías.
