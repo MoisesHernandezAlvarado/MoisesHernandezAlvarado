@@ -1,7 +1,7 @@
 # 👋 Hola, soy Moises Hernandez Alvarado
 
 ### Sobre mí
-- 🎓 Estudiante de último año de **Ingeniería de Software y Sistemas Computacionales**
+- 🎓 Egresado de **Ingeniería de Software y Sistemas Computacionales**
 - 💻 Amante del desarrollo **backend con Python** y **frontend con React**
 - 🎮 Disfruto de los **videojuegos**, **fútbol** y los **autos**
 - 💼 Me gusta el trabajo y siempre estoy listo para aprender y enfrentar nuevos retos
